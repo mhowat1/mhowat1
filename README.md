@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Meghan Howat @mhowat1, a research associate 
-- 👀 I’m interested in development economics and using data to inform sustainable and inclusive growth, especially in Latin America
-- 🌱 I’m currently learning R and collaborating on a project in Python!
-- 💞️ I’m looking to collaborate on coding techniques in STATA and R 
+- 👋 Hi, I’m Meghan Howat @mhowat1
+- 👀 I’m interested in development economics and using data to inform sustainable and inclusive growth
+- 🌱 I’m currently learning R and collaborating on a project in Python
+- 💞️ I’m looking to collaborate on linear modeling and visualization techniques 
 - 📫 How to reach me ... mhowat10@gmail.com
 
 <!---
