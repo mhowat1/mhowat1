@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Meghan Howat @mhowat1
-- I’m a Master's student studying Data Science for Public Policy at the London School of Economics
-- I'm interested in sustainable food systems and systems transitions for climate more broadly
-- My work here mostly uses Python but I am also familiar with R, STATA, and SQL
+- Hi, I’m a Master's student in Data Science for Public Policy
+- I'm interested in systems transitions for sustainability, including food and energy. 
+- The projects primarily use Python but I am also familiar with R, STATA, and SQL
 --->
