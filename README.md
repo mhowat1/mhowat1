@@ -1,4 +1,5 @@
 - Hi, I’m a Master's student in Data Science for Public Policy
-- I'm interested in systems transitions for sustainability, including food and energy. 
-- The projects primarily use Python but I am also familiar with R, STATA, and SQL
---->
+- My background is in Economics and healthcare software implementation.
+- I am currently working at the Grantham Institute for Climate Change and the Environment, on two projects related to the agri-food system transition.
+- I am open to roles in data science and data architecture across healthcare, climate, and food systems.
+- --->
