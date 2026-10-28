@@ -2,4 +2,4 @@
 - My background is in Economics and healthcare software implementation.
 - I am currently working at the Grantham Institute for Climate Change and the Environment, on two projects related to the agri-food system transition.
 - I am open to data science roles across healthcare, climate, and food systems starting summer/fall 2027.
-- --->
+
